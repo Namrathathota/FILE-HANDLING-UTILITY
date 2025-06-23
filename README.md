@@ -28,3 +28,7 @@ This task can be applicable in :
 3.Data Logging
 4.Pre-processing for Data Science
 5.Interview Preparation / Skill Practice
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/2a9b3c02-dcf1-4e19-97f3-e266fb20718d)
